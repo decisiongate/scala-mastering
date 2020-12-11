@@ -3,9 +3,9 @@
 ## Technology stack & dependencies
 * Scala: 2.12.12
 * Maven Scala Plugin: 2.15.2
+* SBT 1.2.1
 * Java: 8
 * OpenJDK
-* SBT 1.2.1
 * IntelliJ IDEA Ultimate
 
 ## Features
